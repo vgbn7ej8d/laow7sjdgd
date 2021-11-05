@@ -1,5 +1,5 @@
 working_dir: &working_dir ~/app
-
+ 
 .build_template: &build_definition
   steps:
     - checkout
